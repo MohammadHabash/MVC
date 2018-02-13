@@ -65,8 +65,10 @@ public class Controller implements ActionListener{
 		else if(e.getSource() == views.div){
 	//		try{
 			double result =	m.div(num1, num2);
-			if(num2 ==0)
+			if(num2 ==0){
 				JOptionPane.showMessageDialog(null, "Please make sure that the 2nd number is not equal 0");
+		
+			}
 			else 
 				JOptionPane.showMessageDialog(null,"The answer is:       "+result);
 	//		}
