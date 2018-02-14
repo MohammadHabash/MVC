@@ -52,6 +52,7 @@ public class Controller implements ActionListener{
 				continue;
 			}
 		}//while
+
 		
 		
 		if (e.getSource() == views.add){

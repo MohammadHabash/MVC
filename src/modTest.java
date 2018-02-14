@@ -8,6 +8,7 @@ public class modTest {
 	public void test() {
 		Model a = new Model();
 		int result = (int) a.mod(5,0);
+		
 	}
 
 }

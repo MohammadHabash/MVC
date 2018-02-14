@@ -69,6 +69,7 @@ public class views {
 		div.setBounds(68, 155, 109, 50);
 		frame.getContentPane().add(div);
 		
+		
 		sqrt = new JButton("sqrt");
 		sqrt.setBounds(238, 155, 109, 50);
 		frame.getContentPane().add(sqrt);

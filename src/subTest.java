@@ -8,6 +8,7 @@ public class subTest {
 	public void test() {
 		Model m=new Model();
 		int result = (int) m.sub(5,5);
+		
 	assertEquals(0,	result);
 	
 	}

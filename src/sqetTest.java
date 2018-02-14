@@ -8,6 +8,7 @@ public class sqetTest {
 	public void test() {
 		Model a = new Model();
 		int result = (int) a.sr(-1);
+		
 	}
 
 }

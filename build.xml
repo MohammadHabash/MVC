@@ -2,9 +2,6 @@
 <property name="src.java.dir" location="./src/"/>
 <property name="result.dir" location="./target"/>
 <property name="result.javaclasses.dir" location="${result.dir}/classes"/>
-
-
-
 <path id="NecessaryLibraries">
 <pathelement location="./MyLibraries/junit.jar"/>
 <!--matcher-->

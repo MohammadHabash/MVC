@@ -10,6 +10,7 @@ public class sumTest {
 		int result = (int) m.add(5,5);
 	assertEquals(10,	result);
 	
+	
 	}
 
 }
